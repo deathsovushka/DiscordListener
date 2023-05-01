@@ -1,0 +1,4 @@
+name: DiscordListener
+version: '${project.version}'
+main: org.mythril.discordlistener.DiscordListener
+api-version: 1.19
